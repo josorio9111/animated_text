@@ -1,3 +1,3 @@
 library animated_text;
 
-export 'src/animated_text.dart';
+export 'anima_text.dart';
